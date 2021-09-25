@@ -1,4 +1,4 @@
-package org.acme;
+package org.sla;
 
 import org.junit.jupiter.api.Test;
 

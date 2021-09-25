@@ -1,0 +1,19 @@
+site_name: Franklin Structured Learning Assistant
+site_url: https://hasanaburayyan.github.io/franklin-sla/
+site_description: Structured Learning Assistance For Computer Science Courses At Franklin University!
+repo_url: https://github.com/hasanaburayyan/franklin-sla
+nav:
+  - 'index.md'
+theme: material
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - attr_list
