@@ -4,9 +4,10 @@ site_description: Structured Learning Assistance For Computer Science Courses At
 repo_url: https://github.com/hasanaburayyan/franklin-sla
 nav:
   - 'index.md'
+  - 'getting-started/setup.md'
+  - 'getting-started/logical-operators.md'
+  - 'comp511/welcome.md'
 theme: material
-extra_css:
-  - stylesheets/extra.css
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
