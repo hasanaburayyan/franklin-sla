@@ -7,6 +7,7 @@ nav:
   - 'getting-started/setup.md'
   - 'getting-started/logical-operators.md'
   - 'comp511/welcome.md'
+  - 'comp511/week-one.md'
 theme: material
 markdown_extensions:
   - pymdownx.highlight
